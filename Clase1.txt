@@ -1,0 +1,42 @@
+* ¿Cuáles son los dos valores del tipo de datos booleano? ¿Cómo se escriben?
+R= Verdadero (True); Falso (False).
+
+* ¿Cuáles son los tres operadores booleanos?
+R= And, Or, Not
+
+* Escriba una rutina que genere todas las tablas de verdad de cada operador booleano (es decir, cada combinación posible de valores booleanos para cada  operador). A continuación se muestra un ejemplo para el operador or.
+booleanos = [False, True]
+R= revisar archivo TablaPQ.py
+
+* ¿Cuáles son los seis operadores de comparación?
+R= Mayor que (>), Menor que (<); No estrictos: mayor o igual (>=), Menor o igual (<=), Igual (==), No igual (!=)
+
+* ¿Cuál es la diferencia entre el operador igual y el operador de asignación?
+R= El operador gual est[a comparando si ds valores son iguales. El de asiganacion esta indicando que le voy a dar a un variable cierto valor, no estoy comparando, estoy diciendo que al escribir esa variable, el comando o funci[on en qu ela ponga va a a usar el valor asignado
+
+* Explique qué es una condición y dónde la usaría.
+R= Se coloca a lado de alguna estructura de control (if, while, for), y lo que hacen es controlar cuando se va a trababjar esa estructura. Miesntras la condicion se cumpla, por ejemplo: un variable sea menor a alguna cantidad, el controlador est[aratrabajando en algun ciclo.
+
+* ¿Qué puede hacer si su programa está atascado en un bucle infinito?
+R= Identificar en la terminal la "Direccion" del proceso que se quiere terminar. En caso de una Mac usar los protocolos kill 7 o kill 9, o en caso de una linx el kill.
+
+* ¿Cuál es la diferencia entre romper y continuar?
+
+*¿Cuál es la diferencia entre rango (10), rango (0, 10) y rango (0, 10, 1) en un bucle for?
+EL bucle for el rango va a indicarle al bucle cuando trabajar. Para rango (10) el bucle va a trabajan con valores del 0 al 9, para el rango(0,10) le pido que trabaja cuando el valor de alguna variable este entre los valores de 0 al 10, el otro rango limita que los valores en os que trabaje el ciblo ssen los del 0 al diez pero que vayan aumentando de uno en uno (solo para 0,1,2,3,4,5,6,7,8,10).
+
+* Escribe un programa corto que imprima los primeros "N" números y la suma de mismos "N" usando un bucle for. Luego escribe un programa equivalente que imprima los números del 1 al 10 usando un bucle while.
+R= Archivos NatWhile.py y NatFor.py
+
+* Un ciclo que imprima los primeros M números impares.
+R= Archivo Imparers.py
+
+* Escriba un programa que calcule los primeros N términos de la serie de fibonacci.
+R= Archivo Fibonacci.py
+
+* Escriba un programa que calcule el factorial de un número N.
+R= Archivo Factorial. py
+
+
+
+ 
