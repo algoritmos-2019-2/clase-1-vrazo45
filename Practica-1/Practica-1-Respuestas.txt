@@ -1,3 +1,5 @@
+Respuestas a preguntas
+
 * ¿Cuáles son los dos valores del tipo de datos booleano? ¿Cómo se escriben?
 R= Verdadero (True); Falso (False).
 
